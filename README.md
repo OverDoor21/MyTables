@@ -1,1 +1,1 @@
-MyTables is a program that uses Entity Framework, to create migration from C# code to SQL,helps to easy apply changes and modify database 
+MyTables is a API that was created by C# Entity Framework.Used to create project for your task manager
